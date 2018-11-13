@@ -1,5 +1,5 @@
-# R Neural Network for auctioning robot
-## First Test
+# Neural Network 
+## First Test following: https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r/
 
 #install.packages('MASS')
 #install.packages("caTools")
